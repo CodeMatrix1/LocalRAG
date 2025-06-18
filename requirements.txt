@@ -1,0 +1,6 @@
+pypdf
+langchain
+chromadb
+sentence-transformers
+mistral-inference
+huggingface-hub
